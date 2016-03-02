@@ -11,8 +11,12 @@ public class Model {
     }
 
     public ArrayList<Element> getAllElements() {
-        // TODO Auto-generated method stub
-        return null;
+        ArrayList<Element> elementList = new ArrayList<Element>();
+        elementList.add(new Element());
+        elementList.add(new Element());
+        elementList.add(new Element());
+        elementList.add(new Element());
+        return elementList;
     }
 
 }
