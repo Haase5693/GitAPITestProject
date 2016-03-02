@@ -5,8 +5,8 @@ import java.util.ArrayList;
 public class Model {
 
     public Element getElementByID(int iD) {
-        // TODO Auto-generated method stub
-        return null;
+        Element element = new Element();
+        return element;
 
     }
 
